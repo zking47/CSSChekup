@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(143, 143, 143);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.container{
+    border: solid 6px black;
+    background-color: red;
+    width: auto;
+    height: 50px;
+margin-top: 75px;
+padding: 10px 10px 10px 10px;
+}
+#para{
+    color: brown;
+}
